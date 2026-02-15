@@ -1,14 +1,5 @@
 # AI-Humanizer-ZH - 中文AI文本人类化工具
 
-## ✅ 技能安装完成！
-
-AI-Humanizer-ZH技能已成功安装到Clawdbot中。
-
-## 📍 安装位置
-```
-C:\Users\Administrator\AppData\Roaming\npm\node_modules\openclaw-cn\skills\ai-humanizer-zh
-```
-
 ## 🚀 快速使用
 
 ### 在Clawdbot中使用
